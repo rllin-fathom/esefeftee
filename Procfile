@@ -5,4 +5,4 @@ web: bokeh serve \
     --show \
     --host=esefeftee.herokuapp.com \
     --host=* --address=0.0.0.0 \
-    --use-xheaders food_map/map.py
+    --use-xheaders map.py
